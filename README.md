@@ -1,7 +1,7 @@
-<a href="http://zhangkaitao.github.io/es/" target="_blank">项目首页</a>
-|
-<a href="http://jinnianshilongnian.iteye.com/" target="_blank">我的博客</a> | <a href="http://url.cn/MViZN0">点击加134755960 QQ群讨论</a> | <a href="http://demo.kaifazhe.me/es/admin/index" target="_blank">演示地址（感谢134755960群友Panda支持）</a>(admin/123456 请不要执行增删改操作 谢谢)
-
+<a href="http://zhangkaitao.github.io/es/" target="_blank">项目首页</a> | 
+<a href="http://blog.csdn.net/xiaochunping9987/" target="_blank">iteye博客</a> | 
+<a href="http://xiaochunping9987.iteye.com/" target="_blank">iteye博客</a> | 
+<a href="http://t.cn/R7AFCEn">点击和576851277 QQ讨论</a>
 
 ##介绍
 * ES是一个JavaEE企业级项目的快速开发的脚手架，提供了底层抽象和通用功能，拿来即用。
