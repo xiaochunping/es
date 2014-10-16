@@ -1,7 +1,7 @@
-<a href="http://zhangkaitao.github.io/es/" target="_blank">项目首页</a> | 
+<a href="http://xiaochunping.github.io/es/" target="_blank">项目首页</a> | 
 <a href="http://blog.csdn.net/xiaochunping9987/" target="_blank">iteye博客</a> | 
 <a href="http://xiaochunping9987.iteye.com/" target="_blank">iteye博客</a> | 
-<a href="http://t.cn/R7AFCEn">点击和576851277 QQ讨论</a>
+<a href="http://t.cn/R7AFCEn" target="_blank">点击和576851277 QQ讨论</a>
 
 ##介绍
 * ES是一个JavaEE企业级项目的快速开发的脚手架，提供了底层抽象和通用功能，拿来即用。
@@ -69,9 +69,9 @@
 
 ###系统界面截图
 * <a href="http://demo.kaifazhe.me/es/admin/index" target="_blank">演示地址（感谢134755960群友Panda支持）</a>
-* <a href="https://github.com/zhangkaitao/es/blob/master/src/support/img/1.PNG?raw=true" target="_blank">点击查看1</a>
-* <a href="https://github.com/zhangkaitao/es/blob/master/src/support/img/2.PNG?raw=true" target="_blank">点击查看2</a>
-* <a href="https://github.com/zhangkaitao/es/blob/master/src/support/img/3.PNG?raw=true" target="_blank">点击查看3</a>
+* <a href="https://github.com/xiaochunping/es/blob/master/src/support/img/1.PNG?raw=true" target="_blank">点击查看1</a>
+* <a href="https://github.com/xiaochunping/es/blob/master/src/support/img/2.PNG?raw=true" target="_blank">点击查看2</a>
+* <a href="https://github.com/xiaochunping/es/blob/master/src/support/img/3.PNG?raw=true" target="_blank">点击查看3</a>
 
 
 ##CI status
