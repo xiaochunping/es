@@ -1,5 +1,5 @@
 <a href="http://xiaochunping.github.io/es/" target="_blank">项目首页</a> | 
-<a href="http://blog.csdn.net/xiaochunping9987/" target="_blank">iteye博客</a> | 
+<a href="http://blog.csdn.net/xiaochunping9987/" target="_blank">csdn博客</a> | 
 <a href="http://xiaochunping9987.iteye.com/" target="_blank">iteye博客</a> | 
 <a href="http://t.cn/R7AFCEn" target="_blank">点击和576851277 QQ讨论</a>
 

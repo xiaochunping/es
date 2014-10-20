@@ -12,7 +12,7 @@
 	<artifactId>es-web</artifactId>
 	<packaging>war</packaging>
 	<name>web</name>
-	<url>https://github.com/zhangkaitao/es/web</url>
+	<url>https://github.com/xiaochunping/es/web</url>
 
 	<build>
 		<finalName>${project.artifactId}</finalName>
@@ -131,13 +131,6 @@
 					</dependency>
 				</dependencies>
 			</plugin>
-
-			<!--<plugin> -->
-			<!--<groupId>com.sishuok</groupId> -->
-			<!--<artifactId>codegen</artifactId> -->
-			<!--<version>${codegen.version}</version> -->
-			<!--</plugin> -->
-
 		</plugins>
 		<resources>
 			<resource>
@@ -168,21 +161,6 @@
 			<version>${yui.compressor.version}</version>
 		</dependency>
 
-
-		<!-- x-gen user -->
-		<!--<dependency> -->
-		<!--<groupId>com.sishuok</groupId> -->
-		<!--<artifactId>x-gen</artifactId> -->
-		<!--<version>1.0</version> -->
-		<!--<scope>provided</scope> -->
-		<!--</dependency> -->
-		<!--<dependency> -->
-		<!--<groupId>bsh</groupId> -->
-		<!--<artifactId>bsh</artifactId> -->
-		<!--<version>1.3.0</version> -->
-		<!--<scope>provided</scope> -->
-		<!--</dependency> -->
-
 		<!-- poi:office word/excel/power point…… -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
@@ -204,8 +182,6 @@
 		<site.basedir>${project.parent.parent.basedir}</site.basedir>
 		<mysql.version>5.1.27</mysql.version>
 		<yui.compressor.version>2.4.2</yui.compressor.version>
-
-		<codegen.version>1.0-SNAPSHOT</codegen.version>
 	</properties>
 
 	<!--在列的项目构建profile，如果被激活，会修改构建处理 -->

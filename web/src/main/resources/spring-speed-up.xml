@@ -43,8 +43,6 @@
                 <value>druidStatInterceptor</value>
                 <value>druidAdvisor</value>
 
-
-
             </list>
         </property>
         <!-- 需要从bean定义中移除的bean的属性 -->

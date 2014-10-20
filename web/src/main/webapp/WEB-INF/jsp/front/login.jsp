@@ -5,12 +5,11 @@
     <div class="navbar-inner">
         <a class="brand" href="#">&nbsp;&nbsp;es脚手架</a>
         <ul class="nav">
-            <li><a href="http://sishuok.com" target="_blank">私塾在线</a></li>
             <li class="active"><a href="#">登录</a></li>
-            <li><a href="http://jinnianshilongnian.iteye.com" target="_blank">我的博客</a></li>
-            <li><a href="https://github.com/zhangkaitao/es" target="_blank">github</a></li>
+            <li><a href="http://blog.csdn.net/xiaochunping9987" target="_blank">csdn博客</a></li>
+            <li><a href="https://github.com/xiaochunping/es" target="_blank">github</a></li>
         </ul>
-        <a class="brand" style="float: right" href="mailto:zhangkaitao0503@gmail.com" target="_blank">&nbsp;&nbsp;问题反馈</a>
+        <a class="brand" style="float: right" href="mailto:xcp.email@gmail.com" target="_blank">&nbsp;&nbsp;问题反馈</a>
     </div>
 </div>
 
@@ -72,9 +71,9 @@
         <ul class="footer-links">
             <li><a href="http://jinnianshilongnian.iteye.com">博客</a></li>
             <li class="muted">·</li>
-            <li><a href="https://github.com/zhangkaitao/es/issues?state=open" target="_blank">问题反馈</a></li>
+            <li><a href="https://github.com/xiaochunping/es/issues?state=open" target="_blank">问题反馈</a></li>
             <li class="muted">·</li>
-            <li><a href="https://github.com/zhangkaitao/es" target="_blank">项目主页</a></li>
+            <li><a href="https://github.com/xiaochunping/es" target="_blank">项目主页</a></li>
         </ul>
     </div>
 </footer>
